@@ -1,0 +1,30 @@
+Countries Most Sales Transactions: 
+Trinidad and Tobago: 321
+Guinea: 318
+Cape Verde: 315
+Maldives: 311
+Finland: 310
+Democratic Republic of the Congo: 308
+Samoa : 306
+Malta: 305
+China: 303
+France: 303
+The country we should build our shipping center is Cape Verde because it is the highest ranked country by sales that does not have a shipping center. Trinidad and Tobago, Guinea, and the Maldives are ranked 1,2, and 4 with centers. Cape Verde is ranked 3 with no center.
+
+Sales Channels: 
+Online: 30204
+Offline: 19796
+We have more online than offline sales
+
+Order Priorities: 
+M: 19887
+H: 15099
+L: 9986
+C: 5013
+We do more M order priorities
+
+Highest Selling Items: 
+NULL: 6041190914.559984
+Household: 3403301844.870007
+Office Supplies: 2605583355.0
+We profited from NULL the most
